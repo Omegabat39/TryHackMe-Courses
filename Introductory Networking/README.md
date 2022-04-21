@@ -1,4 +1,4 @@
-Introductory Networking
+Introductory Networking- TryHackMe Course
 
 Task 1: Introduction
 ![task1a1](https://user-images.githubusercontent.com/97130195/164358922-cb0a6313-38fd-4ac4-82b2-f2ccfc233342.png)
