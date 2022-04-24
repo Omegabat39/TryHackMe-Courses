@@ -180,7 +180,7 @@ Answer: Skidy
 
 ![task6qfinal](https://user-images.githubusercontent.com/97130195/164995372-848d5e34-3954-445a-ad3f-ed973360e5a1.png)
 
-
+Cancel changes
 Answer: No answer needed
 
 Task 7: Exploiting Telnet
@@ -325,4 +325,5 @@ Task 11:
 ![task11s1](https://user-images.githubusercontent.com/97130195/164992950-0e967590-cc4a-4e14-ab8b-b8c747ab8605.png)
 
 
-
+Work Cited: 
+Cyber security training. TryHackMe. (n.d.). Retrieved April 24, 2022, from https://tryhackme.com/room/networkservices# 
