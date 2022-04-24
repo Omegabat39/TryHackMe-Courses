@@ -211,6 +211,9 @@ Answer: No answer needed
 
 Answer: No answer needed
 
+![task7a2](https://user-images.githubusercontent.com/97130195/164996855-30ad908f-0f0b-478b-8a76-1f6669c2482a.png)
+
+
 ![task7s7](https://user-images.githubusercontent.com/97130195/164992399-6f448431-4229-4a88-abd7-20e576a9eadc.png)
 
 Answer:  Y
@@ -221,6 +224,9 @@ Answer: No answer needed
 
 ![task7s9](https://user-images.githubusercontent.com/97130195/164992431-3b1cade6-561a-4755-965b-48d677646e9e.png)
 
+![task7a1](https://user-images.githubusercontent.com/97130195/164996901-7cd5481a-5dee-47c4-9ee2-de2f720d09ec.png)
+
+
 Answer: mkfifo
 
 ![task7s10](https://user-images.githubusercontent.com/97130195/164992441-2c0afd0d-a7bd-48b4-877f-b17005d94787.png)
@@ -228,6 +234,10 @@ Answer: mkfifo
 Answer: nc -lvp 4444
 
 ![task7s11](https://user-images.githubusercontent.com/97130195/164992450-356f88a2-8ff9-47c9-9cae-a136744358d3.png)
+
+![task7a3](https://user-images.githubusercontent.com/97130195/164996961-6547e8b5-7b07-4a43-8d41-7730b2d2ab43.png)
+
+![task7a4](https://user-images.githubusercontent.com/97130195/164996965-16043444-a848-446e-ba26-14ae59b1cde4.png)
 
 Answer: No answer needed
 
@@ -257,6 +267,9 @@ Task 9: Enumerating FTP
 
 ![task9s2](https://user-images.githubusercontent.com/97130195/164992713-4e83b982-0191-46a8-aee9-59377dcfa87d.png)
 
+![task9q3](https://user-images.githubusercontent.com/97130195/164997105-d51ad8a0-a063-4e01-a541-49f4064f20a4.png)
+
+
 Amswer: 2
 
 ![task9s3](https://user-images.githubusercontent.com/97130195/164992719-c2c27299-9910-41ed-91a8-55f514f4dde5.png)
@@ -269,9 +282,15 @@ Answer: vsftpd
 
 ![task9s5](https://user-images.githubusercontent.com/97130195/164992726-14344aab-a2bb-4c83-9a6e-f1e1a3928983.png)
 
+![task9q4](https://user-images.githubusercontent.com/97130195/164997220-ee3ab395-4d1b-4b5e-8a6c-ba6ddebef515.png)
+
+
 Answer: PUBLIC_NOTICE.txt
 
 ![task9s6](https://user-images.githubusercontent.com/97130195/164992731-5d47959a-5d54-42c0-9ce9-a1c5cd9372e2.png)
+
+![task9q5](https://user-images.githubusercontent.com/97130195/164997299-9ff7efc7-3c74-46a1-839d-0891e78464bb.png)
+
 
 Answer: mike
 
@@ -289,9 +308,15 @@ Answer: password
 
 ![task10s3](https://user-images.githubusercontent.com/97130195/164992913-69c4a0d5-2b5a-4879-8c97-05df6262a449.png)
 
+![task10](https://user-images.githubusercontent.com/97130195/164997980-4713ae0e-39eb-4912-bc5d-0b8be4969367.png)
+
+
 Answer: No answer needed
 
 ![task10s4](https://user-images.githubusercontent.com/97130195/164992939-a41a76d9-81d6-4d32-91e7-7de569317db2.png)
+
+![Screenshot 2022-04-24 164637](https://user-images.githubusercontent.com/97130195/164998015-47a18cb2-1b05-4fbe-a7e0-62ccb2b08cc8.png)
+
 
 Answer: THM{y0u_g0t_th3_ftp_fl4g}
 
